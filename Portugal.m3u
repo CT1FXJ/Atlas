@@ -335,13 +335,13 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YlVP9O
 https://www.youtube.com/watch?v=uqk1HU_GLVk
 
 #EXTINF:-1,Camera 2 (720p)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LGUFNagY9OI
+https://www.youtube.com/watch?v=LGUFNagY9OI
 
 #EXTINF:-1,Camera 3 (4K)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nPsaWA2HkCY
+https://www.youtube.com/watch?v=nPsaWA2HkCY
 
 #EXTINF:-1,Camera 4 (1440p)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qUgPpUIjF34
+https://www.youtube.com/watch?v=qUgPpUIjF34
 
 #EXTINF:-1,Camera 5 (1440p)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oTKjC1dghDA
+https://www.youtube.com/watch?v=oTKjC1dghDA
