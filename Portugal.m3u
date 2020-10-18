@@ -332,7 +332,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=doqBgK
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YlVP9O_VGtA
 
 #EXTINF:-1,Camera 1 (1440p)
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uqk1HU_GLVk
+https://www.youtube.com/watch?v=uqk1HU_GLVk
 
 #EXTINF:-1,Camera 2 (720p)
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LGUFNagY9OI
